@@ -1,7 +1,8 @@
 import React from 'react';
 import PasswordCreator from "./components/Password_Creator.jsx";
+import "./App.css"
 
-function App(props) {
+function App() {
     return (
         <div>
             <PasswordCreator/>

@@ -1,6 +1,6 @@
 import React from 'react';
 
-function PasswordCreator(props) {
+function PasswordCreator() {
 
     const [password, setPassword] = React.useState('');
 
